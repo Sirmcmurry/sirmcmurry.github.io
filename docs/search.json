@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Ryan C McMurry",
+    "section": "Bio",
+    "text": "Bio\nHello! I am a second year PhD student in Linguistics at the University of California, Davis. I focus on phonetics and I focus on the interception of social identity and speech production. I am in the process of writing my preliminary paper where I analyze ethnic and regional identity in California and the speech that those groups produce. I have some experience with fine-tuning large language models, using tools like Fasttext for sentiment classification, and I am honing my skills in R (this website was made in R!).\nI was born and raised in Oklahoma and found myself living abroad and in various parts of the United States. When I am not doing school work, you can find me playing my Nintendo Switch, traveling, and baking bread. My ultimate goal is to find gainful employment in the European Union."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Ryan C McMurry",
+    "section": "Contact",
+    "text": "Contact\nEmail: rcmcmurry@ucdavis.edu\nUC Davis"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Curriculum Vitae",
